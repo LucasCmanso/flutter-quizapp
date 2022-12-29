@@ -7,6 +7,42 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:1037509565242:android:83d8f186ead878413f8e03",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037509565242-qg8o0tn1d4iev51kcfv4s35debfeb12l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj1HFBGPV-4qauIJiLjSqUqACyaRpDbl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037509565242-qg8o0tn1d4iev51kcfv4s35debfeb12l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1037509565242-06g6mm4jkk3o1gs971282lr4kkh0dvf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.fireship.quizapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:1037509565242:android:eae548e2f529f1203f8e03",
         "android_client_info": {
           "package_name": "io.fireship.quizapp"
